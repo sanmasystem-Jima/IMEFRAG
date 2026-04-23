@@ -1,0 +1,8 @@
+.vs/
+Thumbs.db
+_tmp_tray.ico
+*.suo
+*.user
+*.vsidx
+DocumentLayout.json
+DocumentLayout.backup.json
